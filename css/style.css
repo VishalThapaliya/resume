@@ -23,7 +23,7 @@ body {
   margin: 50px;
   background-color: #fff;
   display: grid;
-  grid-template-columns: 1.2fr 2fr;
+  grid-template-columns: 1.25fr 2fr;
   box-shadow: 0 35px 55px rgba(0, 0, 0, 0.1);
 }
 
@@ -115,7 +115,8 @@ body {
 }
 
 .contactInfo.education li {
-  margin: 20px 0;
+  margin: 30px 0;
+  padding: 10px 0;
 }
 
 .contactInfo.education h5 {
@@ -156,6 +157,7 @@ body {
 .container .right_side {
   position: relative;
   padding: 40px;
+  padding-bottom: 10px;
   background-color: #fff;
 }
 
@@ -220,7 +222,7 @@ body {
 .skills .box h4 {
   text-transform: uppercase;
   color: #848c90;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .skills .box .percent {
@@ -248,6 +250,7 @@ body {
   color: #333;
   margin: 10px 0;
   font-weight: 500;
+  font-size: 14px;
 }
 
 .interests ul li .fa {
