@@ -240,16 +240,10 @@ body {
   background: #03a9f4;
 }
 
-.interests ul {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-}
-
 .interests ul li {
   list-style: none;
-  color: #333;
+  color: #fff;
   margin: 10px 0;
-  font-weight: 500;
   font-size: 14px;
 }
 
